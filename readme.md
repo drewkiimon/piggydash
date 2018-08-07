@@ -1,7 +1,7 @@
-##Piggydash
+## Piggydash
 ---
 
-###Objectives
+### Objectives
 Use the [Amazon IoT Dash button](https://aws.amazon.com/iotbutton/) as a modern day piggybank. Uses the [Simple](https://simple.com) API to transfer money out of my checking account into a rainy day fund.
 
 Inspired by [Ted  Benson's Medium post](https://medium.com/@edwardbenson/how-i-hacked-amazon-s-5-wifi-button-to-track-baby-data-794214b0bdd8) on his Dash hack.
